@@ -30,4 +30,4 @@ Built as part of our Software Engineering program, this platform prioritizes sec
 ![Screenshot 7](https://raw.githubusercontent.com/NikeshGamal/CrowdFundr./master/user-profile-2.png)
 *user-profile*
 ![Screenshot 8](https://raw.githubusercontent.com/NikeshGamal/CrowdFundr./master/user-profile.png)
-*Cuser-profile.*
+*user-profile.*
